@@ -1,7 +1,8 @@
 repo_name: zaknbur/techcomm-map
 report_id: c5c7f16ac215d3fab4199c0a5b38d343
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-23T15:31:31+00:00'
+timestamp: '2024-01-05T08:35:06+00:00'
 requested_by: sarahmaddox
 provider: github
 branch: gh-pages
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/zaknbur/techcomm-map
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/zaknbur/techcomm-map
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -34,6 +37,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/zaknbur/techcomm-map
   detection_source: Repo Metadata
 - name: HTML
   description: Hypertext Markup Language for creating web pages.
@@ -41,6 +45,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/zaknbur/techcomm-map/blob/gh-pages/index.html
   detection_source: index.html
   last_updated_by: Sarah Maddox
   last_updated_on: 2014-05-07 08:30:50.000000000 Z
